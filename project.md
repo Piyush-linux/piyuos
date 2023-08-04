@@ -1,7 +1,14 @@
 ## Web project
-- Anemone (Gole Dorks/Operator)
-	- Info : Advance Google Search
-	- Tech : html , css(skeleton) , js
+
+### Anemone
+- (Gole Dorks/Operator)
+- Info : Advance Google Search
+- Tech : html , css(skeleton) , js
+
+### Blog 
+- Astro cactus , Weekly Blogging
+
+
 ### API Projects
 - https://apipheny.io/free-api/
 - https://apilist.fun/
@@ -10,7 +17,7 @@
 - Disctonary : https://api.dictionaryapi.dev/api/v2/entries/en/hello
 
 
-## VIM 
+## VIM
 
 ---
 

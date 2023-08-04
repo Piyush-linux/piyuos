@@ -101,7 +101,7 @@ sudo systemctl start postgresql
 ## Util Tools
 
 ```sh
-yarn add global retypeapp
+sudo yarn add global retypeapp
 ```
 
 ### Zsh
@@ -132,19 +132,9 @@ sudo pacman -S tor torsocks python-pwntools
 sudo pacman -S proxychains-ng  metasploit cheat-sh rustup  blackarch 
 ```
 
-
-
-
-
-   
-
   
-`sudo nvim /etc/sddm.conf`
+
+`sudo nvim /etc/sddm.conf` 
+> session = i3
 
 
-
-
----
-
-
-  
