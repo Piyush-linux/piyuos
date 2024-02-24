@@ -1,0 +1,5 @@
+# SSH Setup 
+adduser piyu
+usermod -aG sudo piyu
+
+# Github

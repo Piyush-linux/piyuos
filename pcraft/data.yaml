@@ -1,0 +1,87 @@
+apiVersion: v1
+price: 
+  - https://www.pricebefore.com/blueberry-38c-classic-black-38-inch-acoustic-guitar-linden-wood-m9336.html
+me: 
+  portfolio:
+    - notion.so/
+    - ko-fi.com/shubhamchavan#paypalModal
+    - piyush-linux.github.io/
+    - shubhamchavan.bio.link/
+    - piyush98.netlify.app/
+  mail:
+    - outlook.office.com/mail/
+    - mail.google.com/mail/u/1/#inbox
+    - instagram.com/5.h.u.b.h.a.m/
+    - twitter.com/Piyush67372814
+  jobs:
+    - https://wellfound.com/jobs
+  hackathon:
+    - https://github.com/dipakkr/A-to-Z-Resources-for-Students
+    - https://www.kaggle.com/competitions
+    - https://vuejsforge.com/
+    - https://mlh.io/seasons/2023/events
+    - https://hackathons.hackclub.com/
+  learn 
+    - https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2
+font:
+  - https://github.com/madmalik/mononoki
+  - https://github.com/IdreesInc/Monocraft
+tut:
+  - https://github.com/ossu/computer-science#core-security
+  - https://github.com/prakhar1989/awesome-courses#security
+
+coding:
+  doc:
+    - https://github.com/matiassingers/awesome-readme
+  web:
+    tool:
+      - https://github.com/lvwzhen/tools#readme
+      - https://github.com/terkelg/awesome-creative-coding
+      - https://github.com/sindresorhus/awesome#events
+    ui:
+      - https://git-scm.com/
+    css:
+      - https://github.com/awesome-css-group/awesome-css#readme
+      - https://github.com/aniftyco/awesome-tailwindcss#readme
+    vue:
+      - https://github.com/vuejs/awesome-vue
+      - https://github.com/nuxt-community/awesome-nuxt
+  dev:
+    tool:
+      - https://github.com/bregman-arie/devops-resources
+    git:
+      - https://github.com/dictcp/awesome-git
+    linux:
+      news:
+        - https://itsfoss.com/
+        - https://www.linuxandubuntu.com/
+        - https://linuxconfig.org/
+        - https://www.omgubuntu.co.uk/
+        - https://www.ubuntupit.com/
+        - https://opensource.com/
+        - https://www.fosslinux.com/
+        - https://geekrewind.com/
+      tut:
+        - https://github.com/kodekloudhub/linux-basics-course
+        - https://github.com/pwittchen/learning-linux
+      shell:
+        - https://github.com/alebcay/awesome-shell
+        - https://github.com/awesome-lists/awesome-bash
+        - https://linuxhint.com/
+        - https://www.tecmint.com/
+      res:
+        - https://github.com/luong-komorebi/Awesome-Linux-Software#linux-news-apps-and-more
+        - https://github.com/inputsh/awesome-linux
+        - https://github.com/luong-komorebi/Awesome-Linux-Software
+        - https://github.com/knassar702/awesome-linux-minimalism
+        - https://github.com/myugan/awesome-linux-customization
+  hacking:
+    - https://hacklido.com/
+blogs:
+  - https://linuxize.com/post/bash-functions/
+  - https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO-5.html
+  - https://unix.stackexchange.com/questions/356534/how-to-run-string-with-values-as-a-command-in-bash
+blogs2:
+  - a : test-container 1
+  - a : test-container 2
+  - a : test-container 3
